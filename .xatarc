@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://fahad-ali-s-workspace-mshr9j.us-east-1.xata.sh/db/Flashcards",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
